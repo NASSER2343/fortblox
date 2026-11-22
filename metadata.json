@@ -1,0 +1,6 @@
+{
+  "name": "Fortblox Royale",
+  "description": "3D Battle Royale with 8 POIs, 30 enterable buildings, 90 indoor chests, 5-rarity weapon arsenal, articulated character skins, and shrinking storm mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
